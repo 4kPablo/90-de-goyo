@@ -83,11 +83,11 @@ export default function HomePage() {
               </p>
               <ul className="list-disc list-inside mt-2 space-y-1 text-left">
                 <li>
-                  Si vas a subir videos, asegurate de que no sean muy largos (el
-                  espacio es limitado)
+                  Asegurate de que no sean fotos borrosas o de mala calidad
                 </li>
                 <li>
-                  Asegurate de que no sean fotos borrosas o de mala calidad
+                  Si vas a subir videos, asegurate de que no sean muy largos (el
+                  espacio es limitado)
                 </li>
               </ul>
             </div>
